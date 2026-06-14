@@ -1,1 +1,1 @@
-# blogger-assets.
+# blogger-assets
